@@ -25,7 +25,7 @@ Soy desarrollador web con experiencia en **Laravel**, **Astro/Preact**, **Three.
 
 ### 📚 Formación reciente
 
-- **Curso de Especialización en Administración de Recursos y Servicios en la Nube**  
+- **Curso de Especialización en Administración de Recursos y Servicios en la Nube (en curso)**  
   Formación reglada y certificada por la Generalitat Valenciana, impartida en su primera edición.  
   Curso pionero que cubre administración cloud con énfasis en AWS y conceptos aplicables a múltiples plataformas.
 
