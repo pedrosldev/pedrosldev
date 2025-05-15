@@ -37,5 +37,5 @@ Soy desarrollador web con experiencia en **Laravel**, **Astro/Preact**, **Three.
 ### 📫 ¿Hablamos?
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/pedro-sánchez-lancharro-007136203/)  
-- ✉️ pedrosldev@tudominio.com (recomendado actualizar a tu correo profesional)
+- ✉️ piterxus@outlook.com
 
