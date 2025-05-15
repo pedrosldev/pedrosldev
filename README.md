@@ -33,5 +33,5 @@ Soy desarrollador web con experiencia en **Laravel**, **Astro/Preact**, **Three.
 
 ### 📫 ¿Hablamos?
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/tu-usuario-linkedin)
-- ✉️ pedro@example.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/pedro-sánchez-lancharro-007136203/)
+- ✉️ piterxus@outlook.com
