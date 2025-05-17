@@ -16,7 +16,7 @@ Soy desarrollador web con experiencia en **Laravel**, **Astro/Preact**, **Three.
 ### 🧪 Proyectos destacados
 
 - 🎃 [The Traces of Terror](https://github.com/pedrosldev/the-traces-of-terror)  
-  Web experimental que explora el terror en medios no convencionales, con integración de modelos 3D animados.
+  Web experimental que explora el terror en medios no convencionales.
 
 - 💼 [Portafolio Web (en desarrollo)](https://github.com/pedrosldev/portfolio)  
   Mi espacio profesional donde reúno mis trabajos, tecnologías y experiencias.
