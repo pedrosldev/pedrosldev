@@ -6,7 +6,7 @@ Soy desarrollador web con experiencia en **Laravel**, **Astro/Preact**, **Three.
 
 ### 🚀 Tecnologías que uso
 
-- **Frontend**: Astro, Preact, Vue, TailwindCSS, Angular, Vue, React  
+- **Frontend**: Astro, Preact, Vue, Angular, TailwindCSS
 - **Backend**: Laravel (PHP), Node.js, Python (en aprendizaje), MySQL  
 - **DevOps / Infraestructura**: Git, GitHub Actions, Clouding.io, formación en Cloud Computing (AWS)  
 - **Diseño 3D**: Blender para integrar elementos animados en entornos web
