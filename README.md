@@ -24,7 +24,8 @@ Soy desarrollador web con experiencia en **Laravel**, **Astro/Preact**, **Three.
 ---
 
 ### 📚 Formación reciente
-- **Certificación Profesional en Desarrollo de Aplicaciones Web**
+
+- **Técnico Superior en Desarrollo de Aplicaciones Web**
   
 - **Curso de Especialización en Administración de Recursos y Servicios en la Nube (en curso)**  
   Formación reglada y certificada por la Generalitat Valenciana, impartida en su primera edición.  
